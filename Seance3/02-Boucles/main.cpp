@@ -2,6 +2,9 @@
 
 using namespace std;
 
+/**
+* Exemples de Boucles pour afficher la table de multiplication d'un nombre x
+*/
 int main()
 {
     int x = 5;
