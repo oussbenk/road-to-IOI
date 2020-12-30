@@ -1,7 +1,9 @@
 #include <iostream>
 
 using namespace std;
-
+/**
+* Contrôle de saisie de l'age
+*/
 int main()
 {
     int age;
